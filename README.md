@@ -37,28 +37,6 @@ I'm Huda, an Electronic Engineering student at **PENS (Electronic Engineering Po
 
 <div align="center">
 
-## GitHub Stats
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Prospexxx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<br/>
-
-## Streak
-
-<img src="https://streak-stats.demolab.com/?user=Prospexxx&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-## Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prospexxx&theme=tokyo-night&hide_border=true" width="100%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
